@@ -126,7 +126,7 @@ const footers = [
   },
 ];
 
-export default function Pricing() {
+export default function Home() {
   const classes = useStyles();
 
   return (
