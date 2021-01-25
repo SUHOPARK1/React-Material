@@ -72,7 +72,7 @@ export default function Airport(){
                 <div style={{width: '100%', display: 'block'}}>
                     <input
                         type = "text"
-                        style ={{width: '25%'}}
+                        style ={{width: '30%'}}
                         placeholder = "공항이름, 코드번호, 도시명으로 검색 가능합니다."
                         className = "Search"
                         onChange = { e=> handleInput(e) }
